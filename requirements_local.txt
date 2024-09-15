@@ -4,5 +4,15 @@ tqdm
 pandas
 numpy
 matplotlib
+seaborn
 python-dotenv
 python-box
+transformers
+sentence-transformers
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+faiss-cpu
+Pillow
+rank_bm25
