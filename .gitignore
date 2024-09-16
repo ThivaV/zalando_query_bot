@@ -167,3 +167,5 @@ cython_debug/
 milvus_db/
 .db
 .db.lock
+
+processed_data/
