@@ -163,3 +163,7 @@ cython_debug/
 
 *_x100/
 *_x300/
+
+milvus_db/
+.db
+.db.lock
